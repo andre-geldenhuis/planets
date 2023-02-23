@@ -1,3 +1,5 @@
 *.dat
 !final.dat
+gaps*
+
 results/plots/
